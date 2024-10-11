@@ -68,7 +68,7 @@
 ### 🤝 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/Rakesh Rosan Rout" target="_blank">
+  <a href="https://linkedin.com/in/rakeshrosanrout" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="your-linkedin" height="30" width="30" />
   </a>
   <a href="https://www.instagram.com/rakeshrosan.rout" target="_blank">
