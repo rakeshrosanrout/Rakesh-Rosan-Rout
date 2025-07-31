@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently enhancing my skills in **React and Django**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Python, Django**
-- 📫 Reach me at: rakeshrosanrout4@gnail.com | Rakesh Rosan Rout
+- 📫 Reach me at: rakeshrosanrout4@gmail.com | Rakesh Rosan Rout
 - ⚡ Fun fact: I enjoy solving complex problems with code!
 
 ---
